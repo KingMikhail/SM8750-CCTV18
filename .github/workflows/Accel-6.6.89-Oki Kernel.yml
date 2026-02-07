@@ -4,7 +4,7 @@ env:
   TZ: Asia/Shanghai
   ANDROID_VERSION: 'android15'
   KERNEL_VERSION: '6.6'
-  KERNEL_NAME: 'android15-8-kingmikhail-xclusive-4k'
+  KERNEL_NAME: 'Android15-8-KingMikhail-Xclusive'
 
 on:
   workflow_dispatch:
